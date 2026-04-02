@@ -1,0 +1,9 @@
+/home/giovi/ros2_ws/src/build/dd0/CMakeFiles/uninstall.dir
+/home/giovi/ros2_ws/src/build/dd0/CMakeFiles/dd0_uninstall.dir
+/home/giovi/ros2_ws/src/build/dd0/CMakeFiles/test.dir
+/home/giovi/ros2_ws/src/build/dd0/CMakeFiles/edit_cache.dir
+/home/giovi/ros2_ws/src/build/dd0/CMakeFiles/rebuild_cache.dir
+/home/giovi/ros2_ws/src/build/dd0/CMakeFiles/list_install_components.dir
+/home/giovi/ros2_ws/src/build/dd0/CMakeFiles/install.dir
+/home/giovi/ros2_ws/src/build/dd0/CMakeFiles/install/local.dir
+/home/giovi/ros2_ws/src/build/dd0/CMakeFiles/install/strip.dir

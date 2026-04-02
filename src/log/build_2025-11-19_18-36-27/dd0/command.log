@@ -1,0 +1,6 @@
+Invoking command in '/home/giovi/ros2_ws/src/build/dd0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/giovi/ros2_ws/src/dd0 -DCMAKE_INSTALL_PREFIX=/home/giovi/ros2_ws/src/install/dd0
+Invoked command in '/home/giovi/ros2_ws/src/build/dd0' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/giovi/ros2_ws/src/dd0 -DCMAKE_INSTALL_PREFIX=/home/giovi/ros2_ws/src/install/dd0
+Invoking command in '/home/giovi/ros2_ws/src/build/dd0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/giovi/ros2_ws/src/build/dd0 -- -j20 -l20
+Invoked command in '/home/giovi/ros2_ws/src/build/dd0' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/giovi/ros2_ws/src/build/dd0 -- -j20 -l20
+Invoking command in '/home/giovi/ros2_ws/src/build/dd0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/giovi/ros2_ws/src/build/dd0
+Invoked command in '/home/giovi/ros2_ws/src/build/dd0' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/giovi/ros2_ws/src/build/dd0

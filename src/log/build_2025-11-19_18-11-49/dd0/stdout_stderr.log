@@ -1,0 +1,31 @@
+running egg_info
+creating ../build/dd0/dd0.egg-info
+writing ../build/dd0/dd0.egg-info/PKG-INFO
+writing dependency_links to ../build/dd0/dd0.egg-info/dependency_links.txt
+writing entry points to ../build/dd0/dd0.egg-info/entry_points.txt
+writing requirements to ../build/dd0/dd0.egg-info/requires.txt
+writing top-level names to ../build/dd0/dd0.egg-info/top_level.txt
+writing manifest file '../build/dd0/dd0.egg-info/SOURCES.txt'
+reading manifest file '../build/dd0/dd0.egg-info/SOURCES.txt'
+writing manifest file '../build/dd0/dd0.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/giovi/ros2_ws/src/build/dd0/build
+creating /home/giovi/ros2_ws/src/build/dd0/build/lib
+creating /home/giovi/ros2_ws/src/build/dd0/build/lib/dd0
+copying dd0/__init__.py -> /home/giovi/ros2_ws/src/build/dd0/build/lib/dd0
+running install
+running install_lib
+creating /home/giovi/ros2_ws/src/install/dd0/lib/python3.10/site-packages/dd0
+copying /home/giovi/ros2_ws/src/build/dd0/build/lib/dd0/__init__.py -> /home/giovi/ros2_ws/src/install/dd0/lib/python3.10/site-packages/dd0
+byte-compiling /home/giovi/ros2_ws/src/install/dd0/lib/python3.10/site-packages/dd0/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/giovi/ros2_ws/src/install/dd0/share/ament_index
+creating /home/giovi/ros2_ws/src/install/dd0/share/ament_index/resource_index
+creating /home/giovi/ros2_ws/src/install/dd0/share/ament_index/resource_index/packages
+copying resource/dd0 -> /home/giovi/ros2_ws/src/install/dd0/share/ament_index/resource_index/packages
+copying package.xml -> /home/giovi/ros2_ws/src/install/dd0/share/dd0
+running install_egg_info
+Copying ../build/dd0/dd0.egg-info to /home/giovi/ros2_ws/src/install/dd0/lib/python3.10/site-packages/dd0-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/giovi/ros2_ws/src/build/dd0/install.log'

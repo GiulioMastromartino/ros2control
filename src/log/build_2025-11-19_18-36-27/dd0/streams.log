@@ -1,0 +1,42 @@
+[0.008s] Invoking command in '/home/giovi/ros2_ws/src/build/dd0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/giovi/ros2_ws/src/dd0 -DCMAKE_INSTALL_PREFIX=/home/giovi/ros2_ws/src/install/dd0
+[0.072s] -- The C compiler identification is GNU 11.4.0
+[0.131s] -- The CXX compiler identification is GNU 11.4.0
+[0.139s] -- Detecting C compiler ABI info
+[0.213s] -- Detecting C compiler ABI info - done
+[0.222s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.222s] -- Detecting C compile features
+[0.223s] -- Detecting C compile features - done
+[0.227s] -- Detecting CXX compiler ABI info
+[0.311s] -- Detecting CXX compiler ABI info - done
+[0.320s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.320s] -- Detecting CXX compile features
+[0.321s] -- Detecting CXX compile features - done
+[0.323s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.442s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.516s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.579s] -- Added test 'lint_cmake' to check CMake code style
+[0.580s] -- Added test 'xmllint' to check XML markup files
+[0.581s] -- Configuring done
+[0.582s] -- Generating done
+[0.583s] -- Build files have been written to: /home/giovi/ros2_ws/src/build/dd0
+[0.586s] Invoked command in '/home/giovi/ros2_ws/src/build/dd0' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/giovi/ros2_ws/src/dd0 -DCMAKE_INSTALL_PREFIX=/home/giovi/ros2_ws/src/install/dd0
+[0.587s] Invoking command in '/home/giovi/ros2_ws/src/build/dd0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/giovi/ros2_ws/src/build/dd0 -- -j20 -l20
+[0.628s] Invoked command in '/home/giovi/ros2_ws/src/build/dd0' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/giovi/ros2_ws/src/build/dd0 -- -j20 -l20
+[0.639s] Invoking command in '/home/giovi/ros2_ws/src/build/dd0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/giovi/ros2_ws/src/build/dd0
+[0.647s] -- Install configuration: ""
+[0.648s] -- Installing: /home/giovi/ros2_ws/src/install/dd0/share/ament_index/resource_index/package_run_dependencies/dd0
+[0.648s] -- Installing: /home/giovi/ros2_ws/src/install/dd0/share/ament_index/resource_index/parent_prefix_path/dd0
+[0.648s] -- Installing: /home/giovi/ros2_ws/src/install/dd0/share/dd0/environment/ament_prefix_path.sh
+[0.648s] -- Installing: /home/giovi/ros2_ws/src/install/dd0/share/dd0/environment/ament_prefix_path.dsv
+[0.648s] -- Installing: /home/giovi/ros2_ws/src/install/dd0/share/dd0/environment/path.sh
+[0.648s] -- Installing: /home/giovi/ros2_ws/src/install/dd0/share/dd0/environment/path.dsv
+[0.648s] -- Installing: /home/giovi/ros2_ws/src/install/dd0/share/dd0/local_setup.bash
+[0.649s] -- Installing: /home/giovi/ros2_ws/src/install/dd0/share/dd0/local_setup.sh
+[0.649s] -- Installing: /home/giovi/ros2_ws/src/install/dd0/share/dd0/local_setup.zsh
+[0.649s] -- Installing: /home/giovi/ros2_ws/src/install/dd0/share/dd0/local_setup.dsv
+[0.649s] -- Installing: /home/giovi/ros2_ws/src/install/dd0/share/dd0/package.dsv
+[0.649s] -- Installing: /home/giovi/ros2_ws/src/install/dd0/share/ament_index/resource_index/packages/dd0
+[0.649s] -- Installing: /home/giovi/ros2_ws/src/install/dd0/share/dd0/cmake/dd0Config.cmake
+[0.649s] -- Installing: /home/giovi/ros2_ws/src/install/dd0/share/dd0/cmake/dd0Config-version.cmake
+[0.649s] -- Installing: /home/giovi/ros2_ws/src/install/dd0/share/dd0/package.xml
+[0.651s] Invoked command in '/home/giovi/ros2_ws/src/build/dd0' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/giovi/ros2_ws/src/build/dd0

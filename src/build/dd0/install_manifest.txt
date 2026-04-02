@@ -1,0 +1,15 @@
+/home/giovi/ros2_ws/src/install/dd0/share/ament_index/resource_index/package_run_dependencies/dd0
+/home/giovi/ros2_ws/src/install/dd0/share/ament_index/resource_index/parent_prefix_path/dd0
+/home/giovi/ros2_ws/src/install/dd0/share/dd0/environment/ament_prefix_path.sh
+/home/giovi/ros2_ws/src/install/dd0/share/dd0/environment/ament_prefix_path.dsv
+/home/giovi/ros2_ws/src/install/dd0/share/dd0/environment/path.sh
+/home/giovi/ros2_ws/src/install/dd0/share/dd0/environment/path.dsv
+/home/giovi/ros2_ws/src/install/dd0/share/dd0/local_setup.bash
+/home/giovi/ros2_ws/src/install/dd0/share/dd0/local_setup.sh
+/home/giovi/ros2_ws/src/install/dd0/share/dd0/local_setup.zsh
+/home/giovi/ros2_ws/src/install/dd0/share/dd0/local_setup.dsv
+/home/giovi/ros2_ws/src/install/dd0/share/dd0/package.dsv
+/home/giovi/ros2_ws/src/install/dd0/share/ament_index/resource_index/packages/dd0
+/home/giovi/ros2_ws/src/install/dd0/share/dd0/cmake/dd0Config.cmake
+/home/giovi/ros2_ws/src/install/dd0/share/dd0/cmake/dd0Config-version.cmake
+/home/giovi/ros2_ws/src/install/dd0/share/dd0/package.xml
